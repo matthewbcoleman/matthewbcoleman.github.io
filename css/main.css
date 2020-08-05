@@ -19,7 +19,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 /* About */ 
 .about .column{
 		float: left;
-		width: 33%;
+		width: 25%;
 		padding: 5px;
 					}
 .about .row::after{
