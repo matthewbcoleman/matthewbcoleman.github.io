@@ -30,7 +30,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 .about .content{
 	width: 33%;
 	display: inline-block;
-	height: 150px;
+	height: 500px;
 }
 .about #left{
 	background-image: url("/pictures/hockey.jpeg");
