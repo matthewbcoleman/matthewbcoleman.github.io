@@ -27,6 +27,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 	width: 33%;
 	height:150px;
 }
+/*
 .about .content{
 	width: 33%;
 	display: inline-block;
@@ -45,7 +46,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 .about #left{
 	background-image: url("/pictures/mountainbike.jpeg");
 	background-size: cover;
-}
+} */
 
 
 .about * {
@@ -53,7 +54,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 }
 .about .column{
 		float: left;
-		max-height: auto;
+		max-height: 400px;
 		width: 33.33%;
 		padding: 5px;
 					}
