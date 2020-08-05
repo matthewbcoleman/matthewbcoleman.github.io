@@ -55,7 +55,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 }
 .about .column{
 		float: left;
-		max-height: 300px;
+		max-height: 400px;
 		width: 33.33%;
 		padding: 5px;
 					}
