@@ -1,5 +1,19 @@
 
 # Use buttons or tabs for sub-chapters {.tabset .tabset-fade .tabset-pills}
+***
+Save space in your document using buttons or tabs for sub chapters. Add this code at the end of your title:
+
+## First
+A first section
+
+## Second
+content of sub-chapter #2
+
+## Third
+content of sub-chapter #3
+
+
+# Use buttons or tabs for sub-chapters {.tabset .tabset-fade .tabset-pills}
 
 You can use the [editor on GitHub](https://github.com/matthewbcoleman/matthewbcoleman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
