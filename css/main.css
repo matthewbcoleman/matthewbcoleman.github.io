@@ -6,9 +6,9 @@ a:hover { text-decoration: underline; }
 p, ul { font-size: medium; line-height: 1.4em; color: #333; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-h1 { font-size: xx-large;  }
-h2 { font-size: x-large; }
-h3 { font-size: large; }
+h1 { font-size: 3.0em;  }
+h2 { font-size: smaller; }
+h3 { font-size: smaller; }
 h4 { font-size: smaller; }
 
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
@@ -19,7 +19,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 /* About */ 
 .about .column{
 		float: left;
-		width: 25%;
+		width: 33.33%;
 		padding: 5px;
 					}
 .about .row::after{
