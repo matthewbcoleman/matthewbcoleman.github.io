@@ -22,7 +22,13 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 	 	margin-left: auto;
 		margin-right: auto;
 				}
-/*
+
+
+.about img{
+	width:50%;
+}
+
+/* 
 .about .content{
 	width: 33%;
 	display: inline-block;
