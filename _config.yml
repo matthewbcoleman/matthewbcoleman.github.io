@@ -1,4 +1,5 @@
+name: Matthew Coleman
 theme: jekyll-theme-minimal
-title: Matthew Coleman
-description: Here you can find out a bit about me and see my project highlights (plus fun stuff at the bottom)
-output: html_document
+markdown: kramdown
+#title: Matthew Coleman
+#description: Here you can find out a bit about me and see my project highlights (plus fun stuff at the bottom)
