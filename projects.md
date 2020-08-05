@@ -1,6 +1,6 @@
-layout: page
-title: "Project Highlights"
-permalink: https://matthewbcoleman.github.io/projects
+---
+theme: jekyll-theme-minimal
+---
 
 Hey, this thing looks pretty cool 
 
