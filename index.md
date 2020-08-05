@@ -1,10 +1,4 @@
 
----
-theme: jekyll-theme-minimal
-title: Matthew Coleman
-description: Here you can find out a bit about me and see my project highlights (plus fun stuff at the bottom)
----
-
 ## Welcome to GitHub Pages {.tabset}
 
 You can use the [editor on GitHub](https://github.com/matthewbcoleman/matthewbcoleman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
