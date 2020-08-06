@@ -12,7 +12,7 @@ In the Spring of 2020, I was Research Assistant helping Professor
 Alexander Petersen with the development of his R package, WRI, which
 focuses on the estimation of conditional mean densities. As a research
 assistant, I helped with the formula interface, package documentation,
-and creation of the package vignette. At the same time, I wasan
+and creation of the package vignette. At the same time, I was an
 Undergraduate Learning Assistant, where I held individual drop-in office
 hours and helped teaching assistants during computer lab sections.
 
@@ -22,7 +22,7 @@ I am currently a Data Science Intern at [BigIron
 Auctions](https://www.bigiron.com/AboutUs) where I build company
 dashboards for visualization of customer behavior and assist with the
 development of models to determine likely buyers of equipment. I am also
-working as the Transfer Peer Advisor for the Statistics depatment at
+working as the Transfer Peer Adviser for the Statistics department at
 UCSB, where I assist 135 incoming transfer students with admission
 steps, course clearance, and schedule planning.
 
@@ -33,9 +33,9 @@ Science Partnership (
 [CCDSP](https://centralcoastdatascience.org/news/all/2020/ucsb-names-first-cohort-nsf-fellows)
 ). As part of the first Cohort for CCDSP, I am going to get the
 opportunity to work with a diverse group of peers to develop the the
-UCSB data science curriculum, work in committes for outreach, and work
+UCSB data science curriculum, work in committees for outreach, and work
 on capstone projects with local companies to develop my data science
-knowledge
+knowledge.
 
 ## Fun Stuff
 

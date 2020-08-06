@@ -9,4 +9,4 @@ title: Resume
 -   Development: Markdown, GitHub, MS Office, Google Suite, Elementary
     proficiency with HTML and CSS.
 
-#### My resume can be downloaded [here](/downloadables/resume.pdf).
+#### My resume can be downloaded [here](downloads/Matthew\ Coleman\ Resume.pdf).

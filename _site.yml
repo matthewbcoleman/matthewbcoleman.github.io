@@ -15,10 +15,30 @@ navbar:
       href: contact.html
     - text: "GIS Work"
       href: geog176A.html
+    # ========= BELOW IS HOW TO DO A DROPDOWN MENU FROM A TAB ==== USEFUL FOR PROJECTS TAB WHERE THERE ARE MULTIPLE PROJECTS ========== #
+    # - text: "More"
+    # icon: fa-gear
+    # menu:
+    #   - text: "Heading 1"
+    #   - text: "Page A"
+    #     href: page_a.html
+    #   - text: "Page B"
+    #     href: page_b.html
+    #   - text: "---------"
+    #   - text: "Heading 2"
+    #   - text: "Page C"
+    #     href: page_c.html
+    #   - text: "Page D"
+    #     href: page_d.html
   right: 
-    - text: "Github"
+    - text: "GitHub"
       icon: fa-github
       href: https://github.com/matthewbcoleman
+    - text: "Email"
+      icon: fa-send
+      href: mailto:matthewbcoleman@ucsb.edu
+    - text: 'Resume'
+      href: "downloads/Matthew\ Coleman\ Resume.pdf"
       
 output: 
   html_document:
