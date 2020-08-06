@@ -13,7 +13,7 @@ navbar:
     - text: "Contact Me"
       href: contact/index.html
     - text: "GIS Work"
-      href: geof176A/index.html
+      href: geog176A/index.html
 output: 
   html_document:
     theme: paper
