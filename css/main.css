@@ -23,6 +23,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 		margin-left: auto;
 		margin-right: auto;
 		width:50%;
+		transform: scale(.7);
 		}
 
 /* About */
@@ -36,28 +37,6 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 .about img{
 	width:50%;
 }
-
-/* 
-.about .content{
-	width: 33%;
-	display: inline-block;
-	height: 500px;
-}
-.about #left{
-	background-image: url("/pictures/hockey.jpeg");
-	background-size: cover;
-}
-
-.about #left{
-	background-image: url("/pictures/marathon.jpeg");
-	background-size: cover;
-}
-
-.about #left{
-	background-image: url("/pictures/mountainbike.jpeg");
-	background-size: cover;
-} */
-
 
 .about * {
 	box-sizing: border-box;
@@ -76,7 +55,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 	    margin: 30px;
 	}
 
-/* CV */
+/* Resume */
 .resume { margin: 0px 0px 60px; }
 .resume h1 { font-size: 3em; }
 .resume h2 { font-size: 2em; }
