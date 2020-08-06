@@ -18,22 +18,14 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Front Page */
 
-.mainphoto {
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-		max-height:75%;
-		height:auto;
-		/*transform: scale(.7);*/
-		}
-
-/* About */
-.about .me {
+.me {
 		display: block;
 	 	margin-left: auto;
 		margin-right: auto;
+		width: 50%;
 				}
-
+				
+/* About */
 
 .about img{
 	width:50%;
