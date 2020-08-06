@@ -1,19 +1,24 @@
 name: 'Matthew Coleman'
-output_dir: '.'
 navbar:
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Projects"
-      href: projects/index.html
+      href: projects.html
     - text: "About"
-      href: about/index.html
+      href: about.html
     - text: "Resume"
-      href: resume/index.html
+      href: resume.html
     - text: "Contact Me"
-      href: contact/index.html
+      href: contact.html
     - text: "GIS Work"
-      href: geog176A/index.html
+      href: geog176A.html
+  right: 
+    - text: "Github"
+      icon: fa-github
+      href: https://github.com/matthewbcoleman
+      
 output: 
   html_document:
     theme: paper

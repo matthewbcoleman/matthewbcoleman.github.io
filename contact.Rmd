@@ -1,0 +1,12 @@
+--- 
+layout: default 
+title: Contact Me 
+---
+
+I can be reached most easily through email and LinkedIn, Links to both
+and my GitHub are below:
+
+-   [Email](mailto:matthewbcoleman@ucsb.edu)
+-   [LinkedIn](https://www.linkedin.com/in/matthewbriancoleman/)
+-   [Github](https://https://github.com/matthewbcoleman)
+
