@@ -22,8 +22,9 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		width:50%;
-		transform: scale(.7);
+		max-width:50%;
+		max-width:50%;
+		/*transform: scale(.7);*/
 		}
 
 /* About */
