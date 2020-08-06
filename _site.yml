@@ -1,5 +1,5 @@
 name: 'Matthew Coleman'
-output_dit: '_site'
+output_dit: '.'
 navbar:
   left:
     - text: "Home"
