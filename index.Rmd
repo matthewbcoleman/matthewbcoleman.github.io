@@ -1,0 +1,14 @@
+--- 
+title: Matthew Coleman
+---
+
+
+<center>
+
+![](img/about_photo.jpeg)
+</center>
+
+4th Year Statistics and Data Science student at UCSB looking to use data
+to make a positive impact on the world. Interested in Data Science
+Proof-of-Concept development which leads to deployable solutions. Feel
+free to click through and see a bit of what I am about!

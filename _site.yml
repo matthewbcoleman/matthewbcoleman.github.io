@@ -1,0 +1,21 @@
+name: 'Matthew Coleman'
+output_dir: '.'
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects/index.html
+    - text: "About"
+      href: about/index.html
+    - text: "Resume"
+      href: resume/index.html
+    - text: "Contact Me"
+      href: contact/index.html
+    - text: "GIS Work"
+      href: geof176A/index.html
+output: 
+  html_document:
+    theme: paper
+
+
