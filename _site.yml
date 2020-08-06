@@ -1,5 +1,5 @@
 name: 'Matthew Coleman'
-output_dit: '.'
+output_dir: '.'
 navbar:
   left:
     - text: "Home"
