@@ -31,11 +31,14 @@ navbar:
     #   - text: "Page D"
     #     href: page_d.html
   right: 
-    - icon: fa-github
+    - text: ''
+      icon: fa-github
       href: https://github.com/matthewbcoleman
-    - icon: fa-envelope
+    - text: ''
+      icon: fa-envelope
       href: mailto:matthewbcoleman@ucsb.edu
-    - icon: fa-linkedin-square
+    - text: ''
+      icon: fa-linkedin-square
       href: https://www.linkedin.com/in/matthewbriancoleman/
       
 output: 
