@@ -4,6 +4,8 @@ title: About Me
 output: html_document
 ---
 
+<br> 
+
 ## Past Experience
 
 I have worked as a data analytics intern for UCSB's D1 baseball team,

@@ -2,10 +2,11 @@
 title: Matthew Coleman
 ---
 
+<br>
 
 <center>
 
-![](img/about_photo.jpeg)
+![](img/about_photo.jpeg){height=70% width=70%}
 </center>
 
 <br>

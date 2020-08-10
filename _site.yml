@@ -34,7 +34,7 @@ navbar:
     - icon: fa-github
       href: https://github.com/matthewbcoleman
     - icon: fa-envelope
-      href: mailto:matthewbcoleman@ucsb.edu
+      href: mailto:coleman.matthew.b@gmail.com
     - icon: fa-linkedin-square
       href: https://www.linkedin.com/in/matthewbriancoleman/
       
@@ -42,5 +42,7 @@ output:
   html_document:
     theme: paper
     css: main.css
+    includes:
+      after_body: footer.html
 
 
