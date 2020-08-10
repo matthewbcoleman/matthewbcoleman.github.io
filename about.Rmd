@@ -18,6 +18,8 @@ and creation of the package vignette. At the same time, I was an
 Undergraduate Learning Assistant, where I held individual drop-in office
 hours and helped teaching assistants during computer lab sections.
 
+<br>
+
 ## Current Work
 
 I am currently a Data Science Intern at [BigIron
@@ -27,6 +29,8 @@ development of models to determine likely buyers of equipment. I am also
 working as the Transfer Peer Adviser for the Statistics department at
 UCSB, where I assist 135 incoming transfer students with admission
 steps, course clearance, and schedule planning.
+
+<br>
 
 ## Future Work
 
@@ -38,6 +42,8 @@ opportunity to work with a diverse group of peers to develop the the
 UCSB data science curriculum, work in committees for outreach, and work
 on capstone projects with local companies to develop my data science
 knowledge.
+
+<br>
 
 ## Fun Stuff
 
