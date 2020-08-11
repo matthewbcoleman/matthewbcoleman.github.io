@@ -37,7 +37,7 @@ and
 [Report](https://github.com/matthewbcoleman/school_projects/blob/master/Hate_speech_classifier/Project%20Report.pdf)
 </center>
 
-In this project, my group and I aimed to classify tweets from a 25,000 tweet dataset as hate, offensive, or regular speech using PySpark. Using cross-validation on a naive-bayes and logistic regression model, we were able to decide on a logistic regression model with stop words removed from the tweets. Using this model, we were able to achieve an overall accuracy of 88.38% on the test set. In this project, I did most of the development on the Logistic Regression model and final analysis in the report.
+In this project, my group and I aimed to classify tweets from a 25,000 tweet dataset as hate, offensive, or regular speech using PySpark. Using cross-validation on naive-bayes and logistic regression models, we were able to decide on a logistic regression model with stop words removed from the tweets. Using this model, we were able to achieve an overall accuracy of 88.38% on the test set. In this project, I did most of the development on the Logistic Regression model and final analysis in the report.
 
 <br>
 
