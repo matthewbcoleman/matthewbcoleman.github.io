@@ -8,11 +8,16 @@ In the summer of 2020, I took a course, Geography 176A - *Introduction to Geogra
 ## [Building a Project Website](https://matthewbcoleman.github.io/)
 
 - In this lab I built a webpage using only Rmarkdown and the resulting .html files from the knitting.
-- I learned how to use different types of YAML commands.
-- I learned how to create a navbar (super useful) to navigate between my different pages.
+- Learned how to use different types of YAML commands.
+- Learned how to create a navbar (super useful) to navigate between my different pages.
 
 ## [Exploring COVID-19 Trends](https://matthewbcoleman.github.io/geog-176A-labs/lab-02.html)
 
 - In this lab I conducted an investigation into COVID-19 case trends.
-- I learned how to create faceted plot to show trends by group.
-- I learned the beginnings of mapping in R with ggplot. 
+- Learned how to create faceted plot to show trends by group.
+- Learned the beginnings of mapping in R with ggplot. 
+
+## [Distances and Projections](https://matthewbcoleman.github.io/geog-176A-labs/lab-03.html)
+- Analysis and mapping of cities based on different criteria including distance to US, state, MX, and CA border.
+- Learned how to map in ggplot using `geom_sf`
+- Learned how to highlight features of interest using `gghighlight` and label points neatly with `ggrepel`
