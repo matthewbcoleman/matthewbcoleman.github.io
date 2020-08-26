@@ -1,13 +1,17 @@
 --- 
 title: Projects
 ---
+```{r, echo = FALSE}
+library(icon)
+```
+
 <br> 
 
 # **Current Projects**
 
 ***
 
-### Machine Learning Shiny App
+### Machine Learning Shiny App <i class="fab fa-r-project"></I>
 
 <center>
 ![](proj_img/shiny.png){width=25% height=25%}
@@ -25,7 +29,7 @@ During my free time, I am developing a shiny app which allows users to upload an
 
 ***
 
-### Twitter Hate Speech Classifier in Pyspark
+### Twitter Hate Speech Classifier in Pyspark <i class="fab fa-python"></I>
 
 <center>
 ![](proj_img/twitter_speech.png)
@@ -41,7 +45,7 @@ In this project, my group and I aimed to classify tweets from a 25,000 tweet dat
 
 <br>
 
-### New York Airbnb Price Regression and Median Price Classification
+### New York Airbnb Price Regression and Median Price Classification <i class="fab fa-r-project"></I>
 
 <center>
 ![](proj_img/airbnb.jpeg){height=75% width=75%}
@@ -65,7 +69,7 @@ For our final models, we chose OLS Regression and Logistic regression. Both of t
 
 <br> 
 
-### Unsupervised Cluster Analysis of NCAA D1 Curveballs 
+### Unsupervised Cluster Analysis of NCAA D1 Curveballs <i class="fab fa-python"></I>
 
 <center>
 ![](proj_img/curveball.jpg){width=45% height=45%}
@@ -83,7 +87,7 @@ In this project, we analyzed pitch data on D1 baseball curveball pitches through
 
 <br> 
 
-### Batting Point of Contact Analysis 
+### Batting Point of Contact Analysis <i class="fab fa-r-project"></I>
 
 <center>
 ![](proj_img/batter.jpg){width=47% height=47%}
@@ -100,7 +104,7 @@ The main purpose of this research was to explore the relationship between a batt
 
 <br> 
 
-### Exploring the Relationship Between Spin Rate and Pitch Velocity
+### Exploring the Relationship Between Spin Rate and Pitch Velocity <i class="fab fa-r-project"></I>
 
 <center>
 ![](proj_img/spinrate_velo.jpeg){width=75% height=65%}

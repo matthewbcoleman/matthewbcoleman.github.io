@@ -27,8 +27,8 @@ Auctions](https://www.bigiron.com/AboutUs) where I build company
 dashboards for visualization of customer behavior and assist with the
 development of models to determine likely buyers of equipment. I am also
 working as the Transfer Peer Adviser for the Statistics department at
-UCSB, where I assist 135 incoming transfer students with admission
-steps, course clearance, and schedule planning.
+UCSB, where I assist 195 incoming transfer students with admission
+steps, course clearance, and schedule planning. In my free time, I am working on a shiny app and a daily California wildfire map.
 
 <br>
 
