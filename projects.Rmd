@@ -11,6 +11,16 @@ library(icon)
 
 ***
 
+### California Shiny App
+
+
+
+<center>
+[Code](https://github.com/matthewbcoleman/school_projects/blob/master/Hate_speech_classifier/classifier.ipynb)
+and
+[App](http://matthewbriancoleman.shinyapps.io/CaliforniaWildfireMap)
+</center>
+
 ### Machine Learning Shiny App <i class="fab fa-r-project"></I>
 
 <center>
