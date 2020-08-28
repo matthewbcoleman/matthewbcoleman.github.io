@@ -11,9 +11,7 @@ library(icon)
 
 ***
 
-### California Shiny App
-
-
+### California Wildfire Map Shiny App ([Beta Version](http://matthewbriancoleman.shinyapps.io/CaliforniaWildfireMap))
 
 <center>
 [Code](https://github.com/matthewbcoleman/school_projects/blob/master/Hate_speech_classifier/classifier.ipynb)
