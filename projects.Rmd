@@ -1,5 +1,10 @@
 --- 
 title: Projects
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
 ---
 ```{r, echo = FALSE}
 library(icon)
@@ -22,9 +27,9 @@ library(icon)
 [App](http://matthewbriancoleman.shinyapps.io/CaliforniaWildfireMap)
 and
 [Code](https://github.com/matthewbcoleman/wildfireapp)
+</center>
 
 Using [NASA's VIIRS I-Band 375m Active Fire Data](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/viirs-i-band-active-fire-data) and county borders for California, this app uses ggplot and plotly to create an interactive daily map of wildfires in California. 
-</center>
 
 <br>
 
@@ -43,7 +48,6 @@ Using [NASA's VIIRS I-Band 375m Active Fire Data](https://earthdata.nasa.gov/ear
 
 ```
 
-<br>
 
 # **Past Projects**
 
