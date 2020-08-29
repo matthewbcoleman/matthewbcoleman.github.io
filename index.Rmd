@@ -1,17 +1,16 @@
 --- 
-title: Matthew Coleman
+output: 
+  html_document:
+    includes:
+      before_body: index_header.html
 ---
 
 ```{r setup, include=FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-<br>
 
-<center>
-
-![](img/about_photo.jpeg){height=70% width=70%}
-</center>
+<div class= "mycontent">
 
 <br>
 
@@ -19,3 +18,5 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 to make a positive impact on the world. Interested in Data Science
 Proof-of-Concept development which leads to deployable solutions. Feel
 free to click through and see a bit of what I am about!
+
+</div>

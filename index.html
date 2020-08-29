@@ -11,7 +11,7 @@
 
 
 
-<title>Matthew Coleman</title>
+<title>index.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -320,22 +320,57 @@ $(document).ready(function () {
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
+<style>
+.parallax { 
+    /* The image used */
+    background-image: url('img/storke.jpg');
+
+    /* Set a specific height */
+    height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.myimg{
+    width: 20%;
+    height: auto;
+    color: red;
+    position: absolute;
+    top: 200px;
+    left: 40%;
+}
+.maintext{
+    color:white;
+    font-family: georgia;
+    font-size: 54px;
+    font-weight: bold;
+}
+</style>
+
+<!-- Container element -->
+<div class="parallax">
+    <img class="myimg" src="img/about_photo.png"> 
+    <br>
+    <h1 class = 'maintext'>Matthew Coleman</h1> 
+</div>
 
 <div class="fluid-row" id="header">
 
 
 
-<h1 class="title toc-ignore">Matthew Coleman</h1>
 
 </div>
 
 
-<p><br></p>
-<center>
-<img src="img/about_photo.jpeg" style="width:70.0%;height:70.0%" />
-</center>
+<div class="mycontent">
 <p><br></p>
 <p>4th Year Statistics and Data Science student at UCSB looking to use data to make a positive impact on the world. Interested in Data Science Proof-of-Concept development which leads to deployable solutions. Feel free to click through and see a bit of what I am about!</p>
+</div>
 
 &nbsp;
 <hr />
