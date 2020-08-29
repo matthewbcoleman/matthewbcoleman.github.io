@@ -28,17 +28,20 @@ Using [NASA's VIIRS I-Band 375m Active Fire Data](https://earthdata.nasa.gov/ear
 
 <br>
 
+```{r, include = F}
 ### Machine Learning Shiny App <i class="fab fa-r-project"></I>
 
-<center>
-![](proj_img/shiny.png){width=25% height=25%}
-</center>
+# <center>
+# ![](proj_img/shiny.png){width=25% height=25%}
+# </center>
+# 
+# <center>
+# [Code](https://github.com/matthewbcoleman/mlshinyapp/blob/master/ml_shiny_app.R)    
+# </center> 
+# 
+# During my free time, I am developing a shiny app which allows users to upload any `.txt` file or Excel file and then allow the user to choose a common machine learning algorithm to run selected analyses on the data. There will be an output which summarizes key points/findings in the analysis and also returns a `.csv`/Excel with a prediction column appended.
 
-<center>
-[Code](https://github.com/matthewbcoleman/mlshinyapp/blob/master/ml_shiny_app.R)    
-</center> 
-
-During my free time, I am developing a shiny app which allows users to upload any `.txt` file or Excel file and then allow the user to choose a common machine learning algorithm to run selected analyses on the data. There will be an output which summarizes key points/findings in the analysis and also returns a `.csv`/Excel with a prediction column appended.
+```
 
 <br>
 
