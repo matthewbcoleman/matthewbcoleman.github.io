@@ -21,3 +21,8 @@ In the summer of 2020, I took a course, Geography 176A - *Introduction to Geogra
 - Analysis and mapping of cities based on different criteria including distance to US, state, MX, and CA border.
 - Learned how to map in ggplot using `geom_sf`
 - Learned how to highlight features of interest using `gghighlight` and label points neatly with `ggrepel`
+
+## [Tesselations and Webmapping in R](https://matthewbcoleman.github.io/geog-176A-labs/lab-04.html)
+- Worked with a variety of tessellations including voronoi, triangulated, grid, and hex grid.
+- Showed how different tessellations can cause Modifiable Areal Unit Problem (MAUP), resulting in biased maps.
+- Explored US Dam characteristics in different tesselations in `ggplot` and through `leaflet` webmapping.
