@@ -16,7 +16,7 @@ library(icon)
 
 ***
 
-### Simple California Wildfire Map Shiny App <i class="fab fa-r-project"></I> ([Beta Version](http://matthewbriancoleman.shinyapps.io/CaliforniaWildfireMap))
+### Simple California Wildfire Map Shiny App <i class="fab fa-r-project"></I> ([App](http://matthewbriancoleman.shinyapps.io/CaliforniaWildfireMap))
 
 <center>
 ![](proj_img/fire.jpeg){width=35% height=35%}
