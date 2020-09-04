@@ -16,7 +16,7 @@ library(icon)
 
 ***
 
-### Shoe Online Store Product Information Scraper <i class="fab fa-python"></I>
+### Online Shoe Store Product Information Scraper <i class="fab fa-python"></I>
 
 I am currently working on a scraper which gets information (price, shoe type, reviews, etc.) from running shoes on runningwarehouse.com. This data could then be used to create a running shoe recommender system or to determine the most important features of a shoe based on reviews.
 
