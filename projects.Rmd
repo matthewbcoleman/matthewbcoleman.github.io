@@ -133,6 +133,22 @@ The main purpose of this research was to explore the relationship between a batt
 
 <br> 
 
+### MLB Win Rate and Salary Prediction <i class="fab fa-python"></I>
+
+<center>
+![](proj_img/win_percent.png){width=35% height=35%}
+</center>
+
+<center>
+[Code](https://github.com/matthewbcoleman/school_projects/blob/master/salary_wins_project/int15proj_FINAL_VERSION.pdf)
+and
+[Report](https://github.com/matthewbcoleman/school_projects/blob/master/salary_wins_project/INT_15_Final_Report.pdf)
+</center>
+
+For my *Principles & Techniques of Data Science* course, I decided to carry out an analysis on MLB player salaries and team win percentages. Through logistic regression, I  was able to determine with an accuracy of 90% whether a team would win a game based on the ratio of scored runs to runs against. Further, through PCA, I was able to determine two main groups based on win percentage, and were able to determine within those two groups there were differences based on whether teams had more wins than losses in a season. Through my exploration into player salaries, I was able to determine in-game performance is a poor predictor of a players salary.
+
+<br>
+
 ### Exploring the Relationship Between Spin Rate and Pitch Velocity <i class="fab fa-r-project"></I>
 
 <center>
