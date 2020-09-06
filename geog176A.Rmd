@@ -26,3 +26,12 @@ In the summer of 2020, I took a course, Geography 176A - *Introduction to Geogra
 - Worked with a variety of tessellations including voronoi, triangulated, grid, and hex grid.
 - Showed how different tessellations can cause Modifiable Areal Unit Problem (MAUP), resulting in biased maps.
 - Explored US Dam characteristics in different tesselations in `ggplot` and through `leaflet` webmapping.
+
+## [Identifying Flooding Through K-Means and Landsat Band Combination](https://matthewbcoleman.github.io/geog-176A-labs/lab-05.html)
+- Used Landsat band combination to create indexes which can be used to distinguish water from land.
+- Created a K-Means algorithm which used landsat bands to determine water features from land features.
+- Plotted rasters of flooding areas and water flood uncertainty in OpenStreetMap and base R. 
+
+
+
+
