@@ -8,5 +8,6 @@ title: Resume
 -   Analysis: scikit-learn, caret, RStan, tidyverse, Pandas, NumPy.
 -   Development: Markdown, GitHub, MS Office, Google Suite, Elementary
     proficiency with HTML and CSS.
+-   Mapping: `sf`, `raster`, `leaflet`, `OpenStreetMap`, `whitebox`.
 
 #### My resume can be downloaded [here](downloads/Matthew\ Coleman\ Resume.pdf).
