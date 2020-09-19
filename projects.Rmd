@@ -98,6 +98,24 @@ For our final models, we chose OLS Regression and Logistic regression. Both of t
 
 <br> 
 
+### Collaborator on WRI, an R package <i class="fab fa-r-project"></I>
+
+<center>
+![](proj_img/WRI.png){height=75% width=75%}
+</center>
+
+<center>
+[Paper](https://arxiv.org/abs/1910.13418)
+</center>
+
+I assisted Professor Alexander Petersen with the development of his R package, `WRI`, which is used to estimate conditional mean densities. My main tasks included:
+
+- Implementing function interface for main Wasserstein Regression Function.
+- Authoring and codingthe package vignette which displays the package's functions and usage. 
+- Writing and editing function documentation.
+
+<br>
+
 ### Unsupervised Cluster Analysis of NCAA D1 Curveballs <i class="fab fa-python"></I>
 
 <center>
